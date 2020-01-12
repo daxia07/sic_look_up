@@ -1,0 +1,2029 @@
+<small>DIVISION A. AGRICULTURE, FORESTRY, AND FISHING
+<br>
+<br>&nbsp; 01 AGRICULTURAL PRODUCTION-CROPS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 011 CASH GRAINS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0111 WHEAT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0112 RICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0115 CORN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0116 SOYBEANS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0119 CASH GRAINS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 013 FIELD CROPS, EXCEPT CASH GRAINS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0131 COTTON
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0132 TOBACCO
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0133 SUGARCANE AND SUGAR BEETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0134 IRISH POTATOES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0139 FIELD CROPS, EXCEPT CASH GRAINS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 016 VEGETABLES AND MELONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0161 VEGETABLES AND MELONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 017 FRUITS AND TREE NUTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0171 BERRY CROPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0172 GRAPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0173 TREE NUTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0174 CITRUS FRUITS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0175 DECIDUOUS TREE FRUITS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0179 FRUITS AND TREE NUTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 018 HORTICULTURAL SPECIALTIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0181 ORNAMENTAL FLORICULTURE AND NURSERY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0182 FOOD CROPS GROWN UNDER COVER
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 019 GENERAL FARMS, PRIMARILY CROP
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0191 GENERAL FARMS, PRIMARILY CROP
+<br>
+<br>&nbsp; 02 AGRICULTURAL PRODUCTION-LIVESTOCK AND ANIMAL SPECIALTIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 021 LIVESTOCK, EXCEPT DAIRY AND POULTRY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0211 BEEF CATTLE FEEDLOTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0212 BEEF CATTLE, EXCEPT FEEDLOTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0213 HOGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0214 SHEEP AND GOATS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0219 GENERAL LIVESTOCK, EXCEPT DAIRY AND POULTRY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 024 DAIRY FARMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0241 DAIRY FARMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 025 POULTRY AND EGGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0251 BROILER, FRYER, AND ROASTER CHICKENS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0252 CHICKEN EGGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0253 TURKEYS AND TURKEY EGGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0254 POULTRY HATCHERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0259 POULTRY AND EGGS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 027 ANIMAL SPECIALTIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0271 FUR-BEARING ANIMALS AND RABBITS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0272 HORSES AND OTHER EQUINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0273 ANIMAL AQUACULTURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0279 ANIMAL SPECIALTIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 029 GENERAL FARMS, PRIMARILY LIVESTOCK AND ANIMAL SPECIALTIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0291 GENERAL FARMS, PRIMARILY LIVESTOCK AND ANIMAL SPECIALTIES
+<br>
+<br>&nbsp; 07 AGRICULTURAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 071 SOIL PREPARATION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0711 SOIL PREPARATION SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 072 CROP SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0721 CROP PLANTING, CULTIVATING, AND PROTECTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0722 CROP HARVESTING, PRIMARILY BY MACHINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0723 CROP PREPARATION SERVICES FOR MARKET, EXCEPT COTTON GINNING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0724 COTTON GINNING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 074 VETERINARY SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0741 VETERINARY SERVICES FOR LIVESTOCK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0742 VETERINARY SERVICES FOR ANIMAL SPECIALTIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 075 ANIMAL SERVICES, EXCEPT VETERINARY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0751 LIVESTOCK SERVICES, EXCEPT VETERINARY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0752 ANIMAL SPECIALTY SERVICES, EXCEPT VETERINARY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 076 FARM LABOR AND MANAGEMENT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0761 FARM LABOR CONTRACTORS AND CREW LEADERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0762 FARM MANAGEMENT SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 078 LANDSCAPE AND HORTICULTURAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0781 LANDSCAPE COUNSELING AND PLANNING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0782 LAWN AND GARDEN SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0783 ORNAMENTAL SHRUB AND TREE SERVICES
+<br>
+<br>&nbsp; 08 -FORESTRY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 081 TIMBER TRACTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0811 TIMBER TRACTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 083 FOREST NURSERIES AND GATHERING OF FOREST PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0831 FOREST NURSERIES AND GATHERING OF FOREST PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 085 FORESTRY SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0851 FORESTRY SERVICES
+<br>
+<br>&nbsp; 09 FISHING, HUNTING, AND TRAPPING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 091 COMMERCIAL FISHING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0912 FINFISH
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0913 SHELLFISH
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0919 MISCELLANEOUS MARINE PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 092 FISH HATCHERIES AND PRESERVES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0921 FISH HATCHERIES AND PRESERVES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 097 HUNTING AND TRAPPING, AND GAME PROPAGATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0971 HUNTING AND TRAPPING, AND GAME PROPAGATION
+<br>
+<br>DIVISION B. MINING
+<br>
+<br>&nbsp; 10 METAL MINING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 101 IRON ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1011 IRON ORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 102 COPPER ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1021 COPPER ORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 103 LEAD AND ZINC ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1031 LEAD AND ZINC ORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 104 GOLD AND SILVER ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1041 GOLD ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1044 SILVER ORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 106 FERROALLOY ORES, EXCEPT VANADIUM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1061 FERROALLOY ORES, EXCEPT VANADIUM
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 108 METAL MINING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1081 METAL MINING SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 109 MISCELLANEOUS METAL ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1094 URANIUM-RADIUM-VANADIUM ORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1099 MISCELLANEOUS METAL ORES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 12 COAL MINING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 122 BITUMINOUS COAL AND LIGNITE MINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1221 BITUMINOUS COAL AND LIGNITE SURFACE MINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1222 BITUMINOUS COAL UNDERGROUND MINING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 123 ANTHRACITE MINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1231 ANTHRACITE MINING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 124 COAL MINING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1241 COAL MINING SERVICES
+<br>
+<br>&nbsp; 13 OIL AND GAS EXTRACTION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 131 CRUDE PETROLEUM AND NATURAL GAS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1311 CRUDE PETROLEUM AND NATURAL GAS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 132 NATURAL GAS LIQUIDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1321 NATURAL GAS LIQUIDS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 138 OIL AND GAS FIELD SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1381 DRILLING OIL AND GAS WELLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1382 OIL AND GAS FIELD EXPLORATION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1389 OIL AND GAS FIELD SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 14 MINING AND QUARRYING OF NONMETALLIC MINERALS, EXCEPT FUELS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 141 DIMENSION STONE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1411 DIMENSION STONE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 142 CRUSHED AND BROKEN STONE, INCLUDING RIPRAP
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1422 CRUSHED AND BROKEN LIMESTONE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1423 CRUSHED AND BROKEN GRANITE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1429 CRUSHED AND BROKEN STONE, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 144 SAND AND GRAVEL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1442 CONSTRUCTION SAND AND GRAVEL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1446 INDUSTRIAL SAND
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 145 CLAY, CERAMIC, AND REFRACTORY MINERALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1455 KAOLIN AND BALL CLAY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1459 CLAY, CERAMIC, AND REFRACTORY MINERALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 147 CHEMICAL AND FERTILIZER MINERAL MINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1474 POTASH, SODA, AND BORATE MINERALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1475 PHOSPHATE ROCK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1479 CHEMICAL AND FERTILIZER MINERAL MINING, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 148 NONMETALLIC MINERALS SERVICES, EXCEPT FUELS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1481 NONMETALLIC MINERALS SERVICES, EXCEPT FUELS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 149 MISCELLANEOUS NONMETALLIC MINERALS, EXCEPT FUELS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1499 MISCELLANEOUS NONMETALLIC MINERALS, EXCEPT FUELS
+<br>
+<br>DIVISION C. CONSTRUCTION
+<br>
+<br>&nbsp; 15 BUILDING CONSTRUCTION-GENERAL CONTRACTORS AND OPERATIVE BUILDERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 152 GENERAL BUILDING CONTRACTORS-RESIDENTIAL BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1521 GENERAL CONTRACTORS-SINGLE-FAMILY HOUSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1522 GENERAL CONTRACTORS-RESIDENTIAL BUILDINGS, OTHER THAN SINGLE-FAMI
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 153 OPERATIVE BUILDERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1531 OPERATIVE BUILDERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 154 GENERAL BUILDING CONTRACTORS-NONRESIDENTIAL BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1541 GENERAL CONTRACTORS-INDUSTRIAL BUILDINGS AND WAREHOUSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1542 GENERAL CONTRACTORS-NONRESIDENTIAL BUILDINGS, OTHER THAN INDUSTRI
+<br>
+<br>&nbsp; 16 HEAVY CONSTRUCTION OTHER THAN BUILDING CONSTRUCTION-CONTRACTORS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 161 HIGHWAY AND STREET CONSTRUCTION, EXCEPT ELEVATED HIGHWAYS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1611 HIGHWAY AND STREET CONSTRUCTION, EXCEPT ELEVATED HIGHWAYS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 162 HEAVY CONSTRUCTION, EXCEPT HIGHWAY AND STREET CONSTRUCTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1622 BRIDGE, TUNNEL, AND ELEVATED HIGHWAY CONSTRUCTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1623 WATER, SEWER, PIPELINE, AND COMMUNICATIONS AND POWER LINE CONSTRU
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1629 HEAVY CONSTRUCTION, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 17 CONSTRUCTION-SPECIAL TRADE CONTRACTORS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 171 PLUMBING, HEATING AND AIR-CONDITIONING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1711 PLUMBING, HEATING AND AIR-CONDITIONING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 172 PAINTING AND PAPER HANGING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1721 PAINTING AND PAPER HANGING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 173 ELECTRICAL WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1731 ELECTRICAL WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 174 MASONRY, STONEWORK, TILE SETTING, AND PLASTERING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1741 MASONRY, STONE SETTING, AND OTHER STONE WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1742 PLASTERING, DRYWALL, ACOUSTICAL, AND INSULATION WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1743 TERRAZZO, TILE, MARBLE, AND MOSAIC WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 175 CARPENTRY AND FLOOR WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1751 CARPENTRY WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1752 FLOOR LAYING AND OTHER FLOOR WORK, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 176 ROOFING, SIDING, AND SHEET METAL WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1761 ROOFING, SIDING, AND SHEET METAL WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 177 CONCRETE WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1771 CONCRETE WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 178 WATER WELL DRILLING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1781 WATER WELL DRILLING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 179 MISCELLANEOUS SPECIAL TRADE CONTRACTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1791 STRUCTURAL STEEL ERECTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1793 GLASS AND GLAZING WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1793 GLASS INSTALLATION, EXCEPT AUTOMOTIVE-CONTRACTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1794 EXCAVATION WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1795 WRECKING AND DEMOLITION WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1796 INSTALLATION OR ERECTION OF BUILDING EQUIPMENT, NOT ELSEWHERE CLA
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1799 SPECIAL TRADE CONTRACTORS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION D. MANUFACTURING
+<br>
+<br>&nbsp; 20 FOOD AND KINDRED PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 201 MEAT PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011 MEAT PACKING PLANTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2013 SAUSAGES AND OTHER PREPARED MEAT PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015 POULTRY SLAUGHTERING AND PROCESSING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 202 DAIRY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 CREAMERY BUTTER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 NATURAL, PROCESSED, AND IMITATION CHEESE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 DRY, CONDENSED, AND EVAPORATED DAIRY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 ICE CREAM AND FROZEN DESSERTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026 FLUID MILK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 203 CANNED, FROZEN, AND PRESERVED FRUITS, VEGETABLES, AND FOOD SPECIAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2032 CANNED SPECIALTIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2033 CANNED FRUITS, VEGETABLES, PRESERVES, JAMS, AND JELLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2034 DRIED AND DEHYDRATED FRUITS, VEGETABLES, AND SOUP MIXES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2035 PICKLED FRUITS AND VEGETABLES, VEGETABLE SAUCES AND SEASONINGS, A
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2037 FROZEN FRUITS, FRUIT JUICES, AND VEGETABLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2038 FROZEN SPECIALTIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 204 GRAIN MILL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2041 FLOUR AND OTHER GRAIN MILL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2043 CEREAL BREAKFAST FOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2044 RICE MILLING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2045 PREPARED FLOUR MIXES AND DOUGHS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2046 WET CORN MILLING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2047 DOG AND CAT FOOD
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2048 PREPARED FEEDS AND FEED INGREDIENTS FOR ANIMALS AND FOWLS, EXCEPT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 205 BAKERY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2051 BREAD AND OTHER BAKERY PRODUCTS, EXCEPT COOKIES AND CRACKERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2052 COOKIES AND CRACKERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2053 FROZEN BAKERY PRODUCTS, EXCEPT BREAD
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 206 SUGAR AND CONFECTIONERY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2061 CANE SUGAR, EXCEPT REFINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2062 CANE SUGAR REFINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2063 BEET SUGAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2064 CANDY AND OTHER CONFECTIONERY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2066 CHOCOLATE AND COCOA PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2067 CHEWING GUM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2068 SALTED AND ROASTED NUTS AND SEEDS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 207 FATS AND OILS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2074 COTTONSEED OIL MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2075 SOYBEAN OIL MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2076 VEGETABLE OIL MILLS, EXCEPT CORN, COTTONSEED, AND SOYBEAN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2077 ANIMAL AND MARINE FATS AND OILS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2079 SHORTENING, TABLE OILS, MARGARINE, AND OTHER EDIBLE FATS AND OILS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 208 BEVERAGES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2082 MALT BEVERAGES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2083 MALT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2084 WINES, BRANDY, AND BRANDY SPIRITS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2085 DISTILLED AND BLENDED LIQUORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2086 BOTTLED AND CANNED SOFT DRINKS AND CARBONATED WATERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2087 FLAVORING EXTRACTS AND FLAVORING SYRUPS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 209 MISCELLANEOUS FOOD PREPARATIONS AND KINDRED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2091 CANNED AND CURED FISH AND SEAFOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2092 PREPARED FRESH OR FROZEN FISH AND SEAFOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2095 ROASTED COFFEE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2096 POTATO CHIPS, CORN CHIPS, AND SIMILAR SNACKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2097 MANUFACTURED ICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2098 MACARONI, SPAGHETTI, VERMICELLI, AND NOODLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2099 FOOD PREPARATIONS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 21 TOBACCO PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 211 CIGARETTES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2111 CIGARETTES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 212 CIGARS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2121 CIGARS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 213 CHEWING AND SMOKING TOBACCO AND SNUFF
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2131 CHEWING AND SMOKING TOBACCO AND SNUFF
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 214 TOBACCO STEMMING AND REDRYING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2141 TOBACCO STEMMING AND REDRYING
+<br>
+<br>&nbsp; 22 TEXTILE MILL PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 221 BROADWOVEN FABRIC MILLS, COTTON
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2211 BROADWOVEN FABRIC MILLS, COTTON
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 222 BROADWOVEN FABRIC MILLS, MANMADE FIBER AND SILK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2221 BROADWOVEN FABRIC MILLS, MANMADE FIBER AND SILK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 223 BROADWOVEN FABRIC MILLS, WOOL (INCLUDING DYEING AND FINISHING)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2231 BROADWOVEN FABRIC MILLS, WOOL (INCLUDING DYEING AND FINISHING)
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 224 NARROW FABRIC AND OTHER SMALLWARES MILLS: COTTON, WOOL, SILK, AND
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2241 NARROW FABRIC AND OTHER SMALLWARES MILLS: COTTON, WOOL, SILK, AND
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 225 KNITTING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2251 WOMEN'S FULL-LENGTH AND KNEE-LENGTH HOSIERY, EXCEPT SOCKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2252 HOSIERY, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2253 KNIT OUTERWEAR MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2254 KNIT UNDERWEAR AND NIGHTWEAR MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2257 WEFT KNIT FABRIC MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2258 LACE AND WARP KNIT FABRIC MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2259 KNITTING MILLS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 226 DYEING AND FINISHING TEXTILES, EXCEPT WOOL FABRICS AND KNIT GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2261 FINISHERS OF BROADWOVEN FABRICS OF COTTON
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2262 FINISHERS OF BROADWOVEN FABRICS OF MANMADE FIBER AND SILK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2269 FINISHERS OF TEXTILES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 227 CARPETS AND RUGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2273 CARPETS AND RUGS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 228 YARN AND THREAD MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2281 YARN SPINNING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2282 YARN TEXTURIZING, THROWING, TWISTING, AND WINDING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2282 ACETATE FILAMENT YARN: THROWING, TWISTING, WINDING, OR SPOOLING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2284 THREAD MILLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 229 MISCELLANEOUS TEXTILE GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2295 COATED FABRICS, NOT RUBBERIZED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2296 TIRE CORD AND FABRICS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2297 NONWOVEN FABRICS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2298 CORDAGE AND TWINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2299 TEXTILE GOODS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 23 APPAREL AND OTHER FINISHED PRODUCTS MADE FROM FABRICS AND SIMILAR MATERIAL
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 231 MEN'S AND BOYS' SUITS, COATS, AND OVERCOATS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2311 MEN'S AND BOYS' SUITS, COATS, AND OVERCOATS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 232 MEN'S AND BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2321 MEN'S AND BOYS' SHIRTS, EXCEPT WORK SHIRTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2322 MEN'S AND BOYS' UNDERWEAR AND NIGHTWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2323 MEN'S AND BOYS' NECKWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2325 MEN'S AND BOYS' SEPARATE TROUSERS AND SLACKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2326 MEN'S AND BOYS' WORK CLOTHING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2329 MEN'S AND BOYS' CLOTHING, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 233 WOMEN'S, MISSES', AND JUNIORS' OUTERWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2331 WOMEN'S, MISSES', AND JUNIORS' BLOUSES AND SHIRTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2335 WOMEN'S, MISSES', AND JUNIORS' DRESSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2337 WOMEN'S, MISSES', AND JUNIORS' SUITS, SKIRTS, AND COATS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2339 WOMEN'S, MISSES', AND JUNIORS' OUTERWEAR, NOT ELSEWHERE CLASSIFIE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 234 WOMEN'S, MISSES', CHILDREN'S, AND INFANTS' UNDERGARMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2341 WOMEN'S, MISSES', CHILDREN'S, AND INFANTS' UNDERWEAR AND NIGHTWEA
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2342 BRASSIERES, GIRDLES, AND ALLIED GARMENTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 235 HATS, CAPS, AND MILLINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2353 HATS, CAPS, AND MILLINERY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 236 GIRLS', CHILDREN'S, AND INFANTS' OUTERWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2361 GIRLS', CHILDREN'S, AND INFANTS' DRESSES, BLOUSES, AND SHIRTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2369 GIRLS', CHILDREN'S, AND INFANTS' OUTERWEAR, NOT ELSEWHERE CLASSIF
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 237 FUR GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2371 FUR GOODS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 238 MISCELLANEOUS APPAREL AND ACCESSORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2381 DRESS AND WORK GLOVES, EXCEPT KNIT AND ALL-LEATHER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2384 ROBES AND DRESSING GOWNS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2385 WATERPROOF OUTERWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2386 LEATHER AND SHEEP-LINED CLOTHING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2387 APPAREL BELTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2389 APPAREL AND ACCESSORIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 239 MISCELLANEOUS FABRICATED TEXTILE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2391 CURTAINS AND DRAPERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2392 HOUSEFURNISHINGS, EXCEPT CURTAINS AND DRAPERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2393 TEXTILE BAGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2394 CANVAS AND RELATED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2395 PLEATING, DECORATIVE AND NOVELTY STITCHING, AND TUCKING FOR THE T
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2396 AUTOMOTIVE TRIMMINGS, APPAREL FINDINGS, AND RELATED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2397 SCHIFFLI MACHINE EMBROIDERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2399 FABRICATED TEXTILE PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 24 LUMBER AND WOOD PRODUCTS, EXCEPT FURNITURE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 241 LOGGING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2411 LOGGING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 242 SAWMILLS AND PLANING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2421 SAWMILLS AND PLANING MILLS, GENERAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2426 HARDWOOD DIMENSION AND FLOORING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2429 SPECIAL PRODUCT SAWMILLS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 243 MILLWORK, VENEER, PLYWOOD, AND STRUCTURAL WOOD MEMBERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2431 MILLWORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2434 WOOD KITCHEN CABINETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2435 HARDWOOD VENEER AND PLYWOOD
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2436 SOFTWOOD VENEER AND PLYWOOD
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2439 STRUCTURAL WOOD MEMBERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 244 WOOD CONTAINERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2441 NAILED AND LOCK CORNER WOOD BOXES AND SHOOK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2448 WOOD PALLETS AND SKIDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2449 WOOD CONTAINERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 245 WOOD BUILDINGS AND MOBILE HOMES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2451 MOBILE HOMES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2452 PREFABRICATED WOOD BUILDINGS AND COMPONENTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 249 MISCELLANEOUS WOOD PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2491 WOOD PRESERVING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2493 RECONSTITUTED WOOD PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2499 WOOD PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 25 FURNITURE AND FIXTURES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 251 HOUSEHOLD FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2511 WOOD HOUSEHOLD FURNITURE, EXCEPT UPHOLSTERED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2512 WOOD HOUSEHOLD FURNITURE, UPHOLSTERED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2514 METAL HOUSEHOLD FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2515 MATTRESSES, FOUNDATIONS, AND CONVERTIBLE BEDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2517 WOOD TELEVISION, RADIO, PHONOGRAPH, AND SEWING MACHINE CABINETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2519 HOUSEHOLD FURNITURE, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 252 OFFICE FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2521 WOOD OFFICE FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2522 OFFICE FURNITURE, EXCEPT WOOD
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 253 PUBLIC BUILDING AND RELATED FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2531 PUBLIC BUILDING AND RELATED FURNITURE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 254 PARTITIONS, SHELVING, LOCKERS, AND OFFICE AND STORE FIXTURES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2541 WOOD OFFICE AND STORE FIXTURES, PARTITIONS, SHELVING, AND LOCKERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2542 OFFICE AND STORE FIXTURES, PARTITIONS, SHELVING, AND LOCKERS, EXC
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 259 MISCELLANEOUS FURNITURE AND FIXTURES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2591 DRAPERY HARDWARE AND WINDOW BLINDS AND SHADES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2599 FURNITURE AND FIXTURES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 26 PAPER AND ALLIED PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 261 PULP MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2611 PULP MILLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 262 PAPER MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2621 PAPER MILLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 263 PAPERBOARD MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2631 PAPERBOARD MILLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 265 PAPERBOARD CONTAINERS AND BOXES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2652 SETUP PAPERBOARD BOXES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2653 CORRUGATED AND SOLID FIBER BOXES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2655 FIBER CANS, TUBES, DRUMS, AND SIMILAR PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2656 SANITARY FOOD CONTAINERS, EXCEPT FOLDING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2657 FOLDING PAPERBOARD BOXES, INCLUDING SANITARY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 267 CONVERTED PAPER AND PAPERBOARD PRODUCTS, EXCEPT CONTAINERS AND BOX
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2671 PACKAGING PAPER AND PLASTICS FILM, COATED AND LAMINATED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2672 COATED AND LAMINATED PAPER, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2673 PLASTICS, FOIL, AND COATED PAPER BAGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2674 UNCOATED PAPER AND MULTIWALL BAGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2675 DIE-CUT PAPER AND PAPERBOARD AND CARDBOARD
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2676 SANITARY PAPER PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2677 ENVELOPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2678 STATIONERY, TABLETS, AND RELATED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2679 CONVERTED PAPER AND PAPERBOARD PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 27 PRINTING, PUBLISHING, AND ALLIED INDUSTRIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 271 NEWSPAPERS: PUBLISHING, OR PUBLISHING AND PRINTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2711 NEWSPAPERS: PUBLISHING, OR PUBLISHING AND PRINTING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 272 PERIODICALS: PUBLISHING, OR PUBLISHING AND PRINTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2721 PERIODICALS: PUBLISHING, OR PUBLISHING AND PRINTING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 273 BOOKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2731 BOOKS: PUBLISHING, OR PUBLISHING AND PRINTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2732 BOOK PRINTING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 274 MISCELLANEOUS PUBLISHING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2741 MISCELLANEOUS PUBLISHING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 275 COMMERCIAL PRINTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2752 COMMERCIAL PRINTING, LITHOGRAPHIC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2754 COMMERCIAL PRINTING, GRAVURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2759 COMMERCIAL PRINTING, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 276 MANIFOLD BUSINESS FORMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2761 MANIFOLD BUSINESS FORMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 277 GREETING CARDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2771 GREETING CARDS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 278 BLANKBOOKS, LOOSELEAF BINDERS, AND BOOKBINDING AND RELATED WORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2782 BLANKBOOKS, LOOSELEAF BINDERS AND DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2789 BOOKBINDING AND RELATED WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 279 SERVICE INDUSTRIES FOR THE PRINTING TRADE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2791 TYPESETTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2796 PLATEMAKING AND RELATED SERVICES
+<br>
+<br>&nbsp; 28 CHEMICALS AND ALLIED PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 281 INDUSTRIAL INORGANIC CHEMICALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2812 ALKALIES AND CHLORINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2813 INDUSTRIAL GASES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2816 INORGANIC PIGMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2819 INDUSTRIAL INORGANIC CHEMICALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 282 PLASTICS MATERIALS AND SYNTHETIC RESINS, SYNTHETIC RUBBER, CELLULO
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2821 PLASTICS MATERIALS, SYNTHETIC RESINS, AND NONVULCANIZABLE ELASTOM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2822 SYNTHETIC RUBBER (VULCANIZABLE ELASTOMERS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2823 CELLULOSIC MANMADE FIBERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2824 MANMADE ORGANIC FIBERS, EXCEPT CELLULOSIC
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 283 DRUGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2833 MEDICINAL CHEMICALS AND BOTANICAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2834 PHARMACEUTICAL PREPARATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2835 IN VITRO AND IN VIVO DIAGNOSTIC SUBSTANCES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2836 BIOLOGICAL PRODUCTS, EXCEPT DIAGNOSTIC SUBSTANCES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 284 SOAP, DETERGENTS, AND CLEANING PREPARATIONS; PERFUMES, COSMETICS,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2841 SOAP AND OTHER DETERGENTS, EXCEPT SPECIALTY CLEANERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2842 SPECIALTY CLEANING, POLISHING, AND SANITATION PREPARATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2843 SURFACE ACTIVE AGENTS, FINISHING AGENTS, SULFONATED OILS, AND ASS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2844 PERFUMES, COSMETICS, AND OTHER TOILET PREPARATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 285 PAINTS, VARNISHES, LACQUERS, ENAMELS, AND ALLIED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2851 PAINTS, VARNISHES, LACQUERS, ENAMELS, AND ALLIED PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 286 INDUSTRIAL ORGANIC CHEMICALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2861 GUM AND WOOD CHEMICALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2865 CYCLIC ORGANIC CRUDES AND INTERMEDIATES, AND ORGANIC DYES AND PIG
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2869 INDUSTRIAL ORGANIC CHEMICALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 287 AGRICULTURAL CHEMICALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2873 NITROGENOUS FERTILIZERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2874 PHOSPHATIC FERTILIZERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2875 FERTILIZERS, MIXING ONLY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2879 PESTICIDES AND AGRICULTURAL CHEMICALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 289 MISCELLANEOUS CHEMICAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2891 ADHESIVES AND SEALANTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2892 EXPLOSIVES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2893 PRINTING INK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2895 CARBON BLACK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2899 CHEMICALS AND CHEMICAL PREPARATIONS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 29 PETROLEUM REFINING AND RELATED INDUSTRIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 291 PETROLEUM REFINING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2911 PETROLEUM REFINING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 295 ASPHALT PAVING AND ROOFING MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2951 ASPHALT PAVING MIXTURES AND BLOCKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2952 ASPHALT FELTS AND COATINGS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 299 MISCELLANEOUS PRODUCTS OF PETROLEUM AND COAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2992 LUBRICATING OILS AND GREASES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2999 PRODUCTS OF PETROLEUM AND COAL, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 30 RUBBER AND MISCELLANEOUS PLASTICS PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 301 TIRES AND INNER TUBES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3011 TIRES AND INNER TUBES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 302 RUBBER AND PLASTICS FOOTWEAR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3021 RUBBER AND PLASTICS FOOTWEAR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 305 GASKETS, PACKING, AND SEALING DEVICES AND RUBBER AND PLASTICS HOSE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3052 RUBBER AND PLASTICS HOSE AND BELTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3053 GASKETS, PACKING, AND SEALING DEVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 306 FABRICATED RUBBER PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3061 MOLDED, EXTRUDED, AND LATHE-CUT MECHANICAL RUBBER GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3069 FABRICATED RUBBER PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 308 MISCELLANEOUS PLASTICS PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3081 UNSUPPORTED PLASTICS FILM AND SHEET
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3082 UNSUPPORTED PLASTICS PROFILE SHAPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3083 LAMINATED PLASTICS PLATE, SHEET, AND PROFILE SHAPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3084 PLASTICS PIPE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3085 PLASTICS BOTTLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3086 PLASTICS FOAM PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3087 CUSTOM COMPOUNDING OF PURCHASED PLASTICS RESINS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3088 PLASTICS PLUMBING FIXTURES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3089 PLASTICS PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 31 LEATHER AND LEATHER PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 311 LEATHER TANNING AND FINISHING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3111 LEATHER TANNING AND FINISHING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 313 BOOT AND SHOE CUT STOCK AND FINDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3131 BOOT AND SHOE CUT STOCK AND FINDINGS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 314 FOOTWEAR, EXCEPT RUBBER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3142 HOUSE SLIPPERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3143 MEN'S FOOTWEAR, EXCEPT ATHLETIC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3144 WOMEN'S FOOTWEAR, EXCEPT ATHLETIC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3149 FOOTWEAR, EXCEPT RUBBER, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 315 LEATHER GLOVES AND MITTENS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3151 LEATHER GLOVES AND MITTENS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 316 LUGGAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3161 LUGGAGE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 317 HANDBAGS AND OTHER PERSONAL LEATHER GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3171 WOMEN'S HANDBAGS AND PURSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3172 PERSONAL LEATHER GOODS, EXCEPT WOMEN'S HANDBAGS AND PURSES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 319 LEATHER GOODS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3199 LEATHER GOODS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 32 STONE, CLAY, GLASS, AND CONCRETE PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 321 FLAT GLASS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3211 FLAT GLASS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 322 GLASS AND GLASSWARE, PRESSED OR BLOWN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3221 GLASS CONTAINERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3229 PRESSED AND BLOWN GLASS AND GLASSWARE, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 323 GLASS PRODUCTS, MADE OF PURCHASED GLASS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3231 GLASS PRODUCTS, MADE OF PURCHASED GLASS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 324 CEMENT, HYDRAULIC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3241 CEMENT, HYDRAULIC
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 325 STRUCTURAL CLAY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3251 BRICK AND STRUCTURAL CLAY TILE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3253 CERAMIC WALL AND FLOOR TILE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3255 CLAY REFRACTORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3259 STRUCTURAL CLAY PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 326 POTTERY AND RELATED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3261 VITREOUS CHINA PLUMBING FIXTURES AND CHINA AND EARTHENWARE FITTIN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3262 VITREOUS CHINA TABLE AND KITCHEN ARTICLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3263 FINE EARTHENWARE (WHITEWARE) TABLE AND KITCHEN ARTICLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3264 PORCELAIN ELECTRICAL SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3269 POTTERY PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 327 CONCRETE, GYPSUM, AND PLASTER PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3271 CONCRETE BLOCK AND BRICK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3272 CONCRETE PRODUCTS, EXCEPT BLOCK AND BRICK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3273 READY-MIXED CONCRETE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3274 LIME
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3275 GYPSUM PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 328 CUT STONE AND STONE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3281 CUT STONE AND STONE PRODUCTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 329 ABRASIVE, ASBESTOS, AND MISCELLANEOUS NONMETALLIC MINERAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3291 ABRASIVE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3292 ASBESTOS PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3295 MINERALS AND EARTHS, GROUND OR OTHERWISE TREATED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3296 MINERAL WOOL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3297 NONCLAY REFRACTORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3299 NONMETALLIC MINERAL PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 33 PRIMARY METAL INDUSTRIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 331 STEEL WORKS, BLAST FURNACES, AND ROLLING AND FINISHING MILLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3312 STEEL WORKS, BLAST FURNACES (INCLUDING COKE OVENS), AND ROLLING M
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3313 ELECTROMETALLURGICAL PRODUCTS, EXCEPT STEEL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3315 STEEL WIREDRAWING AND STEEL NAILS AND SPIKES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3316 COLD-ROLLED STEEL SHEET, STRIP, AND BARS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3317 STEEL PIPE AND TUBES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 332 IRON AND STEEL FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3321 GRAY AND DUCTILE IRON FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3322 MALLEABLE IRON FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3324 STEEL INVESTMENT FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3325 STEEL FOUNDRIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 333 PRIMARY SMELTING AND REFINING OF NONFERROUS METALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3331 PRIMARY SMELTING AND REFINING OF COPPER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3334 PRIMARY PRODUCTION OF ALUMINUM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3339 PRIMARY SMELTING AND REFINING OF NONFERROUS METALS, EXCEPT COPPER
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 334 SECONDARY SMELTING AND REFINING OF NONFERROUS METALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3341 SECONDARY SMELTING AND REFINING OF NONFERROUS METALS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 335 ROLLING, DRAWING, AND EXTRUDING OF NONFERROUS METALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3351 ROLLING, DRAWING, AND EXTRUDING OF COPPER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3353 ALUMINUM SHEET, PLATE, AND FOIL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3354 ALUMINUM EXTRUDED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3355 ALUMINUM ROLLING AND DRAWING, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3356 ROLLING, DRAWING, AND EXTRUDING OF NONFERROUS METALS, EXCEPT COPP
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3357 DRAWING AND INSULATING OF NONFERROUS WIRE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 336 NONFERROUS FOUNDRIES (CASTINGS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3363 ALUMINUM DIE-CASTINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3364 NONFERROUS DIE-CASTINGS, EXCEPT ALUMINUM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3365 ALUMINUM FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3366 COPPER FOUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3369 NONFERROUS FOUNDRIES, EXCEPT ALUMINUM AND COPPER
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 339 MISCELLANEOUS PRIMARY METAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3398 METAL HEAT TREATING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3399 PRIMARY METAL PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 34 FABRICATED METAL PRODUCTS, EXCEPT MACHINERY AND TRANSPORTATION EQUIPMENT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 341 METAL CANS AND SHIPPING CONTAINERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3411 METAL CANS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3412 METAL SHIPPING BARRELS, DRUMS, KEGS, AND PAILS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 342 CUTLERY, HANDTOOLS, AND GENERAL HARDWARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3421 CUTLERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3423 HAND AND EDGE TOOLS, EXCEPT MACHINE TOOLS AND HANDSAWS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3425 SAW BLADES AND HANDSAWS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3429 HARDWARE, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 343 HEATING EQUIPMENT, EXCEPT ELECTRIC AND WARM AIR; AND PLUMBING FIXT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3431 ENAMELED IRON AND METAL SANITARY WARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3432 PLUMBING FIXTURE FITTINGS AND TRIM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3433 HEATING EQUIPMENT, EXCEPT ELECTRIC AND WARM AIR FURNACES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 344 FABRICATED STRUCTURAL METAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3441 FABRICATED STRUCTURAL METAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3442 METAL DOORS, SASH, FRAMES, MOLDING, AND TRIM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3443 FABRICATED PLATE WORK (BOILER SHOPS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3444 SHEET METALWORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3446 ARCHITECTURAL AND ORNAMENTAL METALWORK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3448 PREFABRICATED METAL BUILDINGS AND COMPONENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3449 MISCELLANEOUS STRUCTURAL METALWORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 345 SCREW MACHINE PRODUCTS, AND BOLTS, NUTS, SCREWS, RIVETS, AND WASHE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3451 SCREW MACHINE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3452 BOLTS, NUTS, SCREWS, RIVETS, AND WASHERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 346 METAL FORGINGS AND STAMPINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3462 IRON AND STEEL FORGINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3463 NONFERROUS FORGINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3465 AUTOMOTIVE STAMPINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3466 CROWNS AND CLOSURES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3469 METAL STAMPINGS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 347 COATING, ENGRAVING, AND ALLIED SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3471 ELECTROPLATING, PLATING, POLISHING, ANODIZING, AND COLORING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3479 COATING, ENGRAVING, AND ALLIED SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 348 ORDNANCE AND ACCESSORIES, EXCEPT VEHICLES AND GUIDED MISSILES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3482 SMALL ARMS AMMUNITION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3483 AMMUNITION, EXCEPT FOR SMALL ARMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3484 SMALL ARMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3489 ORDNANCE AND ACCESSORIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 349 MISCELLANEOUS FABRICATED METAL PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3491 INDUSTRIAL VALVES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3492 FLUID POWER VALVES AND HOSE FITTINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3493 STEEL SPRINGS, EXCEPT WIRE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3494 VALVES AND PIPE FITTINGS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3495 WIRE SPRINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3496 MISCELLANEOUS FABRICATED WIRE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3497 METAL FOIL AND LEAF
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3498 FABRICATED PIPE AND PIPE FITTINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3499 FABRICATED METAL PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 35 INDUSTRIAL AND COMMERCIAL MACHINERY AND COMPUTER EQUIPMENT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 351 ENGINES AND TURBINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3511 STEAM, GAS, AND HYDRAULIC TURBINES, AND TURBINE GENERATOR SET UNI
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3519 INTERNAL COMBUSTION ENGINES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 352 FARM AND GARDEN MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3523 FARM MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3524 LAWN AND GARDEN TRACTORS AND HOME LAWN AND GARDEN EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3524 BLOWERS, RESIDENTIAL LAWN
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 353 CONSTRUCTION, MINING, AND MATERIALS HANDLING MACHINERY AND EQUIPME
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3531 CONSTRUCTION MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3532 MINING MACHINERY AND EQUIPMENT, EXCEPT OIL AND GAS FIELD MACHINER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3533 OIL AND GAS FIELD MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3534 ELEVATORS AND MOVING STAIRWAYS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3535 CONVEYORS AND CONVEYING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3536 OVERHEAD TRAVELING CRANES, HOISTS, AND MONORAIL SYSTEMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3537 INDUSTRIAL TRUCKS, TRACTORS, TRAILERS, AND STACKERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 354 METALWORKING MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3541 MACHINE TOOLS, METAL CUTTING TYPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3542 MACHINE TOOLS, METAL FORMING TYPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3543 INDUSTRIAL PATTERNS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3544 SPECIAL DIES AND TOOLS, DIE SETS, JIGS AND FIXTURES, AND INDUSTRI
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3545 CUTTING TOOLS, MACHINE TOOL ACCESSORIES, AND MACHINISTS' PRECISIO
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3546 POWER-DRIVEN HANDTOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3547 ROLLING MILL MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3548 ELECTRIC AND GAS WELDING AND SOLDERING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3549 METALWORKING MACHINERY, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 355 SPECIAL INDUSTRY MACHINERY, EXCEPT METALWORKING MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3552 TEXTILE MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3553 WOODWORKING MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3554 PAPER INDUSTRIES MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3555 PRINTING TRADES MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3556 FOOD PRODUCTS MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3559 SPECIAL INDUSTRY MACHINERY, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 356 GENERAL INDUSTRIAL MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3561 PUMPS AND PUMPING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3562 BALL AND ROLLER BEARINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3563 AIR AND GAS COMPRESSORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3564 INDUSTRIAL AND COMMERCIAL FANS AND BLOWERS AND AIR PURIFICATION E
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3565 PACKAGING MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3566 SPEED CHANGERS, INDUSTRIAL HIGH-SPEED DRIVES, AND GEARS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3567 INDUSTRIAL PROCESS FURNACES AND OVENS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3568 MECHANICAL POWER TRANSMISSION EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3569 GENERAL INDUSTRIAL MACHINERY AND EQUIPMENT, NOT ELSEWHERE CLASSIF
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 357 COMPUTER AND OFFICE EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3571 ELECTRONIC COMPUTERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3572 COMPUTER STORAGE DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3575 COMPUTER TERMINALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3577 COMPUTER PERIPHERAL EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3578 CALCULATING AND ACCOUNTING MACHINES, EXCEPT ELECTRONIC COMPUTERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3579 OFFICE MACHINES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 358 REFRIGERATION AND SERVICE INDUSTRY MACHINERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3581 AUTOMATIC VENDING MACHINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3582 COMMERCIAL LAUNDRY, DRYCLEANING, AND PRESSING MACHINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3585 AIR-CONDITIONING AND WARM AIR HEATING EQUIPMENT AND COMMERCIAL AN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3586 MEASURING AND DISPENSING PUMPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3589 SERVICE INDUSTRY MACHINERY, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 359 MISCELLANEOUS INDUSTRIAL AND COMMERCIAL MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3592 CARBURETORS, PISTONS, PISTON RINGS, AND VALVES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3593 FLUID POWER CYLINDERS AND ACTUATORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3594 FLUID POWER PUMPS AND MOTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3596 SCALES AND BALANCES, EXCEPT LABORATORY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3599 INDUSTRIAL AND COMMERCIAL MACHINERY AND EQUIPMENT, NOT ELSEWHERE
+<br>
+<br>&nbsp; 36 ELECTRONIC AND OTHER ELECTRICAL EQUIPMENT AND COMPONENTS, EXCEPT COMPUTER
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 361 ELECTRIC TRANSMISSION AND DISTRIBUTION EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3612 POWER, DISTRIBUTION, AND SPECIALTY TRANSFORMERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3613 SWITCHGEAR AND SWITCHBOARD APPARATUS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 362 ELECTRICAL INDUSTRIAL APPARATUS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3621 MOTORS AND GENERATORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3624 CARBON AND GRAPHITE PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3625 RELAYS AND INDUSTRIAL CONTROLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3629 ELECTRICAL INDUSTRIAL APPARATUS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 363 HOUSEHOLD APPLIANCES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3631 HOUSEHOLD COOKING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3632 HOUSEHOLD REFRIGERATORS AND HOME AND FARM FREEZERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3633 HOUSEHOLD LAUNDRY EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3634 ELECTRIC HOUSEWARES AND FANS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3635 HOUSEHOLD VACUUM CLEANERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3639 HOUSEHOLD APPLIANCES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 364 ELECTRIC LIGHTING AND WIRING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3641 ELECTRIC LAMP BULBS AND TUBES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3643 CURRENT-CARRYING WIRING DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3644 NONCURRENT-CARRYING WIRING DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3645 RESIDENTIAL ELECTRIC LIGHTING FIXTURES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3646 COMMERCIAL, INDUSTRIAL, AND INSTITUTIONAL ELECTRIC LIGHTING FIXTU
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3647 VEHICULAR LIGHTING EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3648 LIGHTING EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 365 HOUSEHOLD AUDIO AND VIDEO EQUIPMENT, AND AUDIO RECORDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3651 HOUSEHOLD AUDIO AND VIDEO EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3652 PHONOGRAPH RECORDS AND PRERECORDED AUDIO TAPES AND DISKS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 366 COMMUNICATIONS EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3661 TELEPHONE AND TELEGRAPH APPARATUS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3663 RADIO AND TELEVISION BROADCASTING AND COMMUNICATIONS EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3669 COMMUNICATIONS EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 367 ELECTRONIC COMPONENTS AND ACCESSORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3671 ELECTRON TUBES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3672 PRINTED CIRCUIT BOARDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3674 SEMICONDUCTORS AND RELATED DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3675 ELECTRONIC CAPACITORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3676 ELECTRONIC RESISTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3677 ELECTRONIC COILS, TRANSFORMERS, AND OTHER INDUCTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3678 ELECTRONIC CONNECTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3679 ELECTRONIC COMPONENTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 369 MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT, AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3691 STORAGE BATTERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3692 PRIMARY BATTERIES, DRY AND WET
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3694 ELECTRICAL EQUIPMENT FOR INTERNAL COMBUSTION ENGINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3695 MAGNETIC AND OPTICAL RECORDING MEDIA
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3699 ELECTRICAL MACHINERY, EQUIPMENT, AND SUPPLIES, NOT ELSEWHERE CLAS
+<br>
+<br>&nbsp; 37 TRANSPORTATION EQUIPMENT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 371 MOTOR VEHICLES AND MOTOR VEHICLE EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3711 MOTOR VEHICLES AND PASSENGER CAR BODIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3713 TRUCK AND BUS BODIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3714 MOTOR VEHICLE PARTS AND ACCESSORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3715 TRUCK TRAILERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3716 MOTOR HOMES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 372 AIRCRAFT AND PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3721 AIRCRAFT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3724 AIRCRAFT ENGINES AND ENGINE PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3728 AIRCRAFT PARTS AND AUXILIARY EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 373 SHIP AND BOAT BUILDING AND REPAIRING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3731 SHIP BUILDING AND REPAIRING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3732 BOAT BUILDING AND REPAIRING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 374 RAILROAD EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3743 RAILROAD EQUIPMENT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 375 MOTORCYCLES, BICYCLES, AND PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3751 MOTORCYCLES, BICYCLES, AND PARTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 376 GUIDED MISSILES AND SPACE VEHICLES AND PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3761 GUIDED MISSILES AND SPACE VEHICLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3764 GUIDED MISSILE AND SPACE VEHICLE PROPULSION UNITS AND PROPULSION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3769 GUIDED MISSILE AND SPACE VEHICLE PARTS AND AUXILIARY EQUIPMENT, N
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 379 MISCELLANEOUS TRANSPORTATION EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3792 TRAVEL TRAILERS AND CAMPERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3795 TANKS AND TANK COMPONENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3799 TRANSPORTATION EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 38 MEASURING, ANALYZING AND CONTROLLING INSTRUMENTS; PHOTOGRAPHIC, MEDICAL AN
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 381 SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL, AND NAUTICA
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3812 SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL, AND NAUTIC
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 382 LABORATORY APPARATUS AND ANALYTICAL, OPTICAL, MEASURING, AND CONTR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3821 LABORATORY APPARATUS AND FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3822 AUTOMATIC CONTROLS FOR REGULATING RESIDENTIAL AND COMMERCIAL ENVI
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3823 INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL OF P
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3824 TOTALIZING FLUID METERS AND COUNTING DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3825 INSTRUMENTS FOR MEASURING AND TESTING OF ELECTRICITY AND ELECTRIC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3826 LABORATORY ANALYTICAL INSTRUMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3827 OPTICAL INSTRUMENTS AND LENSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3829 MEASURING AND CONTROLLING DEVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 384 SURGICAL, MEDICAL, AND DENTAL INSTRUMENTS AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3841 SURGICAL AND MEDICAL INSTRUMENTS AND APPARATUS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3842 ORTHOPEDIC, PROSTHETIC, AND SURGICAL APPLIANCES AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3843 DENTAL EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3844 X-RAY APPARATUS AND TUBES AND RELATED IRRADIATION APPARATUS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3845 ELECTROMEDICAL AND ELECTROTHERAPEUTIC APPARATUS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 385 OPHTHALMIC GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3851 OPHTHALMIC GOODS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 386 PHOTOGRAPHIC EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3861 PHOTOGRAPHIC EQUIPMENT AND SUPPLIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 387 WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES, AND PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3873 WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES, AND PARTS
+<br>
+<br>&nbsp; 39 MISCELLANEOUS MANUFACTURING INDUSTRIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 391 JEWELRY, SILVERWARE, AND PLATED WARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3911 JEWELRY, PRECIOUS METAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3914 SILVERWARE, PLATED WARE, AND STAINLESS STEEL WARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3915 JEWELERS' FINDINGS AND MATERIALS, AND LAPIDARY WORK
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 393 MUSICAL INSTRUMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3931 MUSICAL INSTRUMENTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 394 DOLLS, TOYS, GAMES AND SPORTING AND ATHLETIC GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3942 DOLLS AND STUFFED TOYS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3944 GAMES, TOYS, AND CHILDREN'S VEHICLES, EXCEPT DOLLS AND BICYCLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3949 SPORTING AND ATHLETIC GOODS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 395 PENS, PENCILS, AND OTHER ARTISTS' MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3951 PENS, MECHANICAL PENCILS, AND PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3952 LEAD PENCILS, CRAYONS, AND ARTISTS' MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3953 MARKING DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3955 CARBON PAPER AND INKED RIBBONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 396 COSTUME JEWELRY, COSTUME NOVELTIES, BUTTONS, AND MISCELLANEOUS NOT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3961 COSTUME JEWELRY AND COSTUME NOVELTIES, EXCEPT PRECIOUS METAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3965 FASTENERS, BUTTONS, NEEDLES, AND PINS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 399 MISCELLANEOUS MANUFACTURING INDUSTRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3991 BROOMS AND BRUSHES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3993 SIGNS AND ADVERTISING SPECIALTIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3995 BURIAL CASKETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3996 LINOLEUM, ASPHALTED-FELT-BASE, AND OTHER HARD SURFACE FLOOR COVER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3999 MANUFACTURING INDUSTRIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION E. TRANSPORTATION, COMMUNICATIONS, ELECTRIC, GAS, AND SANITARY SERVICE
+<br>
+<br>&nbsp; 40 RAILROAD TRANSPORTATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 401 RAILROADS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4011 RAILROADS, LINE-HAUL OPERATING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4013 RAILROAD SWITCHING AND TERMINAL ESTABLISHMENTS
+<br>
+<br>&nbsp; 41 LOCAL AND SUBURBAN TRANSIT AND INTERURBAN HIGHWAY PASSENGER TRANSPORTATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 411 LOCAL AND SUBURBAN PASSENGER TRANSPORTATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4111 LOCAL AND SUBURBAN TRANSIT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4119 LOCAL PASSENGER TRANSPORTATION, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 412 TAXICABS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4121 TAXICABS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 413 INTERCITY AND RURAL BUS TRANSPORTATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4131 INTERCITY AND RURAL BUS TRANSPORTATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 414 BUS CHARTER SERVICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4141 LOCAL BUS CHARTER SERVICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4142 BUS CHARTER SERVICE, EXCEPT LOCAL
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 415 SCHOOL BUSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4151 SCHOOL BUSES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 417 TERMINAL AND SERVICE FACILITIES FOR MOTOR VEHICLE PASSENGER TRANSP
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4173 TERMINAL AND SERVICE FACILITIES FOR MOTOR VEHICLE PASSENGER TRANS
+<br>
+<br>&nbsp; 42 MOTOR FREIGHT TRANSPORTATION AND WAREHOUSING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 421 TRUCKING AND COURIER SERVICES, EXCEPT AIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4212 LOCAL TRUCKING WITHOUT STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4213 TRUCKING, EXCEPT LOCAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4214 LOCAL TRUCKING WITH STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4215 COURIER SERVICES, EXCEPT BY AIR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 422 PUBLIC WAREHOUSING AND STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4221 FARM PRODUCT WAREHOUSING AND STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4222 REFRIGERATED WAREHOUSING AND STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4225 GENERAL WAREHOUSING AND STORAGE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4226 SPECIAL WAREHOUSING AND STORAGE, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 423 TERMINAL AND JOINT TERMINAL MAINTENANCE FACILITIES FOR MOTOR FREIG
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4231 TERMINAL AND JOINT TERMINAL MAINTENANCE FACILITIES FOR MOTOR FREI
+<br>
+<br>&nbsp; 43 UNITED STATES POSTAL SERVICE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 431 UNITED STATES POSTAL SERVICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4311 UNITED STATES POSTAL SERVICE
+<br>
+<br>&nbsp; 44 WATER TRANSPORTATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 441 DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4412 DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 442 DEEP SEA DOMESTIC TRANSPORTATION OF FREIGHT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4424 DEEP SEA DOMESTIC TRANSPORTATION OF FREIGHT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 443 FREIGHT TRANSPORTATION ON THE GREAT LAKES&amp;die;ST. LAWRENCE SEAWAY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4432 FREIGHT TRANSPORTATION ON THE GREAT LAKES&amp;die;ST. LAWRENCE SEAWAY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 444 WATER TRANSPORTATION OF FREIGHT, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4449 WATER TRANSPORTATION OF FREIGHT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 448 WATER TRANSPORTATION OF PASSENGERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4481 DEEP SEA TRANSPORTATION OF PASSENGERS, EXCEPT BY FERRY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4482 FERRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4489 WATER TRANSPORTATION OF PASSENGERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 449 SERVICES INCIDENTAL TO WATER TRANSPORTATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4491 MARINE CARGO HANDLING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4492 TOWING AND TUGBOAT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4493 MARINAS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4499 WATER TRANSPORTATION SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 45 TRANSPORTATION BY AIR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 451 AIR TRANSPORTATION, SCHEDULED, AND AIR COURIER SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4512 AIR TRANSPORTATION, SCHEDULED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4513 AIR COURIER SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 452 AIR TRANSPORTATION, NONSCHEDULED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4522 AIR TRANSPORTATION, NONSCHEDULED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 458 AIRPORTS, FLYING FIELDS, AND AIRPORT TERMINAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4581 AIRPORTS, FLYING FIELDS, AND AIRPORT TERMINAL SERVICES
+<br>
+<br>&nbsp; 46 PIPELINES, EXCEPT NATURAL GAS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 461 PIPELINES, EXCEPT NATURAL GAS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4612 CRUDE PETROLEUM PIPELINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4613 REFINED PETROLEUM PIPELINES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4619 PIPELINES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 47 TRANSPORTATION SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 472 ARRANGEMENT OF PASSENGER TRANSPORTATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4724 TRAVEL AGENCIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4725 TOUR OPERATORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4729 ARRANGEMENT OF PASSENGER TRANSPORTATION, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 473 ARRANGEMENT OF TRANSPORTATION OF FREIGHT AND CARGO
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4731 ARRANGEMENT OF TRANSPORTATION OF FREIGHT AND CARGO
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 474 RENTAL OF RAILROAD CARS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4741 RENTAL OF RAILROAD CARS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 478 MISCELLANEOUS SERVICES INCIDENTAL TO TRANSPORTATION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4783 PACKING AND CRATING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4785 FIXED FACILITIES AND INSPECTION AND WEIGHING SERVICES FOR MOTOR V
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4785 CARGO CHECKERS AND SURVEYORS, MARINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4789 TRANSPORTATION SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 48 COMMUNICATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 481 TELEPHONE COMMUNICATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4812 RADIOTELEPHONE COMMUNICATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4813 TELEPHONE COMMUNICATIONS, EXCEPT RADIOTELEPHONE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 482 TELEGRAPH AND OTHER MESSAGE COMMUNICATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4822 TELEGRAPH AND OTHER MESSAGE COMMUNICATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 483 RADIO AND TELEVISION BROADCASTING STATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4832 RADIO BROADCASTING STATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4833 TELEVISION BROADCASTING STATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 484 CABLE AND OTHER PAY TELEVISION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4841 CABLE AND OTHER PAY TELEVISION SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 489 COMMUNICATIONS SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4899 COMMUNICATIONS SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 49 ELECTRIC, GAS, AND SANITARY SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 491 ELECTRIC SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4911 ELECTRIC SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 492 GAS PRODUCTION AND DISTRIBUTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4922 NATURAL GAS TRANSMISSION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4923 NATURAL GAS TRANSMISSION AND DISTRIBUTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4924 NATURAL GAS DISTRIBUTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4925 MIXED, MANUFACTURED, OR LIQUEFIED PETROLEUM GAS PRODUCTION AND/OR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 493 COMBINATION ELECTRIC AND GAS, AND OTHER UTILITY SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4931 ELECTRIC AND OTHER SERVICES COMBINED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4932 GAS AND OTHER SERVICES COMBINED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4939 COMBINATION UTILITIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 494 WATER SUPPLY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4941 WATER SUPPLY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 495 SANITARY SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4952 SEWERAGE SYSTEMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4953 REFUSE SYSTEMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4959 SANITARY SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 496 STEAM AND AIR-CONDITIONING SUPPLY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4961 STEAM AND AIR-CONDITIONING SUPPLY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 497 IRRIGATION SYSTEMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4971 IRRIGATION SYSTEMS
+<br>
+<br>DIVISION F. WHOLESALE TRADE
+<br>
+<br>&nbsp; 50 WHOLESALE TRADE&amp;die;DURABLE GOODS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 501 MOTOR VEHICLES AND MOTOR VEHICLE PARTS AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5012 AUTOMOBILES AND OTHER MOTOR VEHICLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5013 MOTOR VEHICLE SUPPLIES AND NEW PARTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5014 TIRES AND TUBES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5015 MOTOR VEHICLE PARTS, USED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 502 FURNITURE AND HOMEFURNISHINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5021 FURNITURE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5023 HOMEFURNISHINGS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 503 LUMBER AND OTHER CONSTRUCTION MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5031 LUMBER, PLYWOOD, MILLWORK, AND WOOD PANELS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5032 BRICK, STONE, AND RELATED CONSTRUCTION MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5033 ROOFING, SIDING, AND INSULATION MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5039 CONSTRUCTION MATERIALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 504 PROFESSIONAL AND COMMERCIAL EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5043 PHOTOGRAPHIC EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5044 OFFICE EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5045 COMPUTERS AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5046 COMMERCIAL EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5047 MEDICAL, DENTAL, AND HOSPITAL EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5048 OPHTHALMIC GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5049 PROFESSIONAL EQUIPMENT AND SUPPLIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 505 METALS AND MINERALS, EXCEPT PETROLEUM
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5051 METALS SERVICE CENTERS AND OFFICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5052 COAL AND OTHER MINERALS AND ORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 506 ELECTRICAL GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5063 ELECTRICAL APPARATUS AND EQUIPMENT, WIRING SUPPLIES, AND CONSTRUC
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5064 ELECTRICAL APPLIANCES, TELEVISION AND RADIO SETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5065 ELECTRONIC PARTS AND EQUIPMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 507 HARDWARE, AND PLUMBING AND HEATING EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5072 HARDWARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5074 PLUMBING AND HEATING EQUIPMENT AND SUPPLIES (HYDRONICS)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5075 WARM AIR HEATING AND AIR-CONDITIONING EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5078 REFRIGERATION EQUIPMENT AND SUPPLIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 508 MACHINERY, EQUIPMENT, AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5082 CONSTRUCTION AND MINING (EXCEPT PETROLEUM) MACHINERY AND EQUIPMEN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5083 FARM AND GARDEN MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5084 INDUSTRIAL MACHINERY AND EQUIPMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5085 INDUSTRIAL SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5087 SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5088 TRANSPORTATION EQUIPMENT AND SUPPLIES, EXCEPT MOTOR VEHICLES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 509 MISCELLANEOUS DURABLE GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5091 SPORTING AND RECREATIONAL GOODS AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5092 TOYS AND HOBBY GOODS AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5093 SCRAP AND WASTE MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5094 JEWELRY, WATCHES, PRECIOUS STONES, AND PRECIOUS METALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5099 DURABLE GOODS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 51 WHOLESALE TRADE&amp;die;NONDURABLE GOODS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 511 PAPER AND PAPER PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5111 PRINTING AND WRITING PAPER
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5112 STATIONERY AND OFFICE SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5113 INDUSTRIAL AND PERSONAL SERVICE PAPER
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 512 DRUGS, DRUG PROPRIETARIES, AND DRUGGISTS' SUNDRIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5122 DRUGS, DRUG PROPRIETARIES, AND DRUGGISTS' SUNDRIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 513 APPAREL, PIECE GOODS, AND NOTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5131 PIECE GOODS, NOTIONS, AND OTHER DRY GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5136 MEN'S AND BOYS' CLOTHING AND FURNISHINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5137 WOMEN'S, CHILDREN'S, AND INFANTS' CLOTHING AND ACCESSORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5139 FOOTWEAR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 514 GROCERIES AND RELATED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5141 GROCERIES, GENERAL LINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5142 PACKAGED FROZEN FOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5143 DAIRY PRODUCTS, EXCEPT DRIED OR CANNED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5144 POULTRY AND POULTRY PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5145 CONFECTIONERY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5146 FISH AND SEAFOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5147 MEATS AND MEAT PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5148 FRESH FRUITS AND VEGETABLES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5149 GROCERIES AND RELATED PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 515 FARM-PRODUCT RAW MATERIALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5153 GRAIN AND FIELD BEANS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5154 LIVESTOCK
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5159 FARM-PRODUCT RAW MATERIALS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 516 CHEMICALS AND ALLIED PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5162 PLASTICS MATERIALS AND BASIC FORMS AND SHAPES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5169 CHEMICALS AND ALLIED PRODUCTS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 517 PETROLEUM AND PETROLEUM PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5171 PETROLEUM BULK STATIONS AND TERMINALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5172 PETROLEUM AND PETROLEUM PRODUCTS WHOLESALERS, EXCEPT BULK STATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 518 BEER, WINE, AND DISTILLED ALCOHOLIC BEVERAGES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5181 BEER AND ALE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5182 WINE AND DISTILLED ALCOHOLIC BEVERAGES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 519 MISCELLANEOUS NONDURABLE GOODS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5191 FARM SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5192 BOOKS, PERIODICALS, AND NEWSPAPERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5193 FLOWERS, NURSERY STOCK, AND FLORISTS' SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5194 TOBACCO AND TOBACCO PRODUCTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5198 PAINTS, VARNISHES, AND SUPPLIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5199 NONDURABLE GOODS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION G. RETAIL TRADE
+<br>
+<br>&nbsp; 52 BUILDING MATERIALS, HARDWARE, GARDEN SUPPLY, AND MOBILE HOME DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 521 LUMBER AND OTHER BUILDING MATERIALS DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5211 LUMBER AND OTHER BUILDING MATERIALS DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 523 PAINT, GLASS, AND WALLPAPER STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5231 PAINT, GLASS, AND WALLPAPER STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 525 HARDWARE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5251 HARDWARE STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 526 RETAIL NURSERIES, LAWN AND GARDEN SUPPLY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5261 RETAIL NURSERIES, LAWN AND GARDEN SUPPLY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 527 MOBILE HOME DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5271 MOBILE HOME DEALERS
+<br>
+<br>&nbsp; 53 GENERAL MERCHANDISE STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 531 DEPARTMENT STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5311 DEPARTMENT STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 533 VARIETY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5331 VARIETY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 539 MISCELLANEOUS GENERAL MERCHANDISE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5399 MISCELLANEOUS GENERAL MERCHANDISE STORES
+<br>
+<br>&nbsp; 54 FOOD STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 541 GROCERY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5411 GROCERY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 542 MEAT AND FISH (SEAFOOD) MARKETS, INCLUDING FREEZER PROVISIONERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5421 MEAT AND FISH (SEAFOOD) MARKETS, INCLUDING FREEZER PROVISIONERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 543 FRUIT AND VEGETABLE MARKETS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5431 FRUIT AND VEGETABLE MARKETS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 544 CANDY, NUT, AND CONFECTIONERY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5441 CANDY, NUT, AND CONFECTIONERY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 545 DAIRY PRODUCTS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5451 DAIRY PRODUCTS STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 546 RETAIL BAKERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5461 RETAIL BAKERIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 549 MISCELLANEOUS FOOD STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5499 MISCELLANEOUS FOOD STORES
+<br>
+<br>&nbsp; 55 AUTOMOTIVE DEALERS AND GASOLINE SERVICE STATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 551 MOTOR VEHICLE DEALERS (NEW AND USED)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5511 MOTOR VEHICLE DEALERS (NEW AND USED)
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 552 MOTOR VEHICLE DEALERS (USED ONLY)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5521 MOTOR VEHICLE DEALERS (USED ONLY)
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 553 AUTO AND HOME SUPPLY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5531 AUTO AND HOME SUPPLY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 554 GASOLINE SERVICE STATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5541 GASOLINE SERVICE STATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 555 BOAT DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5551 BOAT DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 556 RECREATIONAL VEHICLE DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5561 RECREATIONAL VEHICLE DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 557 MOTORCYCLE DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5571 MOTORCYCLE DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 559 AUTOMOTIVE DEALERS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5599 AUTOMOTIVE DEALERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 56 APPAREL AND ACCESSORY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 561 MEN'S AND BOYS' CLOTHING AND ACCESSORY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5611 MEN'S AND BOYS' CLOTHING AND ACCESSORY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 562 WOMEN'S CLOTHING STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5621 WOMEN'S CLOTHING STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 563 WOMEN'S ACCESSORY AND SPECIALTY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5632 WOMEN'S ACCESSORY AND SPECIALTY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 564 CHILDREN'S AND INFANTS' WEAR STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5641 CHILDREN'S AND INFANTS' WEAR STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 565 FAMILY CLOTHING STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5651 FAMILY CLOTHING STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 566 SHOE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5661 SHOE STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 569 MISCELLANEOUS APPAREL AND ACCESSORY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5699 MISCELLANEOUS APPAREL AND ACCESSORY STORES
+<br>
+<br>&nbsp; 57 HOME FURNITURE, FURNISHINGS, AND EQUIPMENT STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 571 HOME FURNITURE AND FURNISHINGS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5712 FURNITURE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5713 FLOOR COVERING STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5714 DRAPERY, CURTAIN, AND UPHOLSTERY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5719 MISCELLANEOUS HOMEFURNISHINGS STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 572 HOUSEHOLD APPLIANCE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5722 HOUSEHOLD APPLIANCE STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 573 RADIO, TELEVISION, CONSUMER ELECTRONICS, AND MUSIC STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5731 RADIO, TELEVISION, AND CONSUMER ELECTRONICS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5734 COMPUTER AND COMPUTER SOFTWARE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5735 RECORD AND PRERECORDED TAPE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5736 MUSICAL INSTRUMENT STORES
+<br>
+<br>&nbsp; 58 EATING AND DRINKING PLACES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 581 EATING AND DRINKING PLACES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5812 EATING PLACES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5813 DRINKING PLACES (ALCOHOLIC BEVERAGES)
+<br>
+<br>&nbsp; 59 MISCELLANEOUS RETAIL
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 591 DRUG STORES AND PROPRIETARY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5912 DRUG STORES AND PROPRIETARY STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 592 LIQUOR STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5921 LIQUOR STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 593 USED MERCHANDISE STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5932 USED MERCHANDISE STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 594 MISCELLANEOUS SHOPPING GOODS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5941 SPORTING GOODS STORES AND BICYCLE SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5942 BOOK STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5943 STATIONERY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5944 JEWELRY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5945 HOBBY, TOY, AND GAME SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5946 CAMERA AND PHOTOGRAPHIC SUPPLY STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5947 GIFT, NOVELTY, AND SOUVENIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5948 LUGGAGE AND LEATHER GOODS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5949 SEWING, NEEDLEWORK, AND PIECE GOODS STORES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 596 NONSTORE RETAILERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5961 CATALOG AND MAIL-ORDER HOUSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5962 AUTOMATIC MERCHANDISING MACHINE OPERATORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5963 DIRECT SELLING ESTABLISHMENTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 598 FUEL DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5983 FUEL OIL DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5984 LIQUEFIED PETROLEUM GAS (BOTTLED GAS) DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5989 FUEL DEALERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 599 RETAIL STORES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5992 FLORISTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5993 TOBACCO STORES AND STANDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5994 NEWS DEALERS AND NEWSSTANDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5995 OPTICAL GOODS STORES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5999 MISCELLANEOUS RETAIL STORES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION H. FINANCE, INSURANCE, AND REAL ESTATE
+<br>
+<br>&nbsp; 60 DEPOSITORY INSTITUTIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 601 CENTRAL RESERVE DEPOSITORY INSTITUTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6011 FEDERAL RESERVE BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6019 CENTRAL RESERVE DEPOSITORY INSTITUTIONS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 602 COMMERCIAL BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6021 NATIONAL COMMERCIAL BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6022 STATE COMMERCIAL BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6029 COMMERCIAL BANKS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 603 SAVINGS INSTITUTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6035 SAVINGS INSTITUTIONS, FEDERALLY CHARTERED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6036 SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 606 CREDIT UNIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6061 CREDIT UNIONS, FEDERALLY CHARTERED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6062 CREDIT UNIONS, NOT FEDERALLY CHARTERED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 608 FOREIGN BANKING AND BRANCHES AND AGENCIES OF FOREIGN BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6081 BRANCHES AND AGENCIES OF FOREIGN BANKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6082 FOREIGN TRADE AND INTERNATIONAL BANKING INSTITUTIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 609 FUNCTIONS RELATED TO DEPOSITORY BANKING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6091 NONDEPOSIT TRUST FACILITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6099 FUNCTIONS RELATED TO DEPOSITORY BANKING, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 61 NONDEPOSITORY CREDIT INSTITUTIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 611 FEDERAL AND FEDERALLY-SPONSORED CREDIT AGENCIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6111 FEDERAL AND FEDERALLY-SPONSORED CREDIT AGENCIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 614 PERSONAL CREDIT INSTITUTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6141 PERSONAL CREDIT INSTITUTIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 615 BUSINESS CREDIT INSTITUTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6153 SHORT-TERM BUSINESS CREDIT INSTITUTIONS, EXCEPT AGRICULTURAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6159 MISCELLANEOUS BUSINESS CREDIT INSTITUTIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 616 MORTGAGE BANKERS AND BROKERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6162 MORTGAGE BANKERS AND LOAN CORRESPONDENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6163 LOAN BROKERS
+<br>
+<br>&nbsp; 62 SECURITY AND COMMODITY BROKERS, DEALERS, EXCHANGES, AND SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 621 SECURITY BROKERS, DEALERS, AND FLOTATION COMPANIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6211 SECURITY BROKERS, DEALERS, AND FLOTATION COMPANIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 622 COMMODITY CONTRACTS BROKERS AND DEALERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6221 COMMODITY CONTRACTS BROKERS AND DEALERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 623 SECURITY AND COMMODITY EXCHANGES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6231 SECURITY AND COMMODITY EXCHANGES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 628 SERVICES ALLIED WITH THE EXCHANGE OF SECURITIES OR COMMODITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6282 INVESTMENT ADVICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6289 SERVICES ALLIED WITH THE EXCHANGE OF SECURITIES OR COMMODITIES, N
+<br>
+<br>&nbsp; 63 INSURANCE CARRIERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 631 LIFE INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6311 LIFE INSURANCE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 632 ACCIDENT AND HEALTH INSURANCE AND MEDICAL SERVICE PLANS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6321 ACCIDENT AND HEALTH INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6324 HOSPITAL AND MEDICAL SERVICE PLANS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 633 FIRE, MARINE, AND CASUALTY INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6331 FIRE, MARINE, AND CASUALTY INSURANCE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 635 SURETY INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6351 SURETY INSURANCE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 636 TITLE INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6361 TITLE INSURANCE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 637 PENSION, HEALTH, AND WELFARE FUNDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6371 PENSION, HEALTH, AND WELFARE FUNDS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 639 INSURANCE CARRIERS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6399 INSURANCE CARRIERS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 64 INSURANCE AGENTS, BROKERS, AND SERVICE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 641 INSURANCE AGENTS, BROKERS, AND SERVICE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6411 INSURANCE AGENTS, BROKERS, AND SERVICE
+<br>
+<br>&nbsp; 65 REAL ESTATE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 651 REAL ESTATE OPERATORS (EXCEPT DEVELOPERS) AND LESSORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6512 OPERATORS OF NONRESIDENTIAL BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6513 OPERATORS OF APARTMENT BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6514 OPERATORS OF DWELLINGS OTHER THAN APARTMENT BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6515 OPERATORS OF RESIDENTIAL MOBILE HOME SITES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6517 LESSORS OF RAILROAD PROPERTY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6519 LESSORS OF REAL PROPERTY, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 653 REAL ESTATE AGENTS AND MANAGERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6531 REAL ESTATE AGENTS AND MANAGERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 654 TITLE ABSTRACT OFFICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6541 TITLE ABSTRACT OFFICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 655 LAND SUBDIVIDERS AND DEVELOPERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6552 LAND SUBDIVIDERS AND DEVELOPERS, EXCEPT CEMETERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6553 CEMETERY SUBDIVIDERS AND DEVELOPERS
+<br>
+<br>&nbsp; 67 HOLDING AND OTHER INVESTMENT OFFICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 671 HOLDING OFFICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6712 OFFICES OF BANK HOLDING COMPANIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6719 OFFICES OF HOLDING COMPANIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 672 INVESTMENT OFFICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6722 MANAGEMENT INVESTMENT OFFICES, OPEN-END
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6726 UNIT INVESTMENT TRUSTS, FACE-AMOUNT CERTIFICATE OFFICES, AND CLOS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 673 TRUSTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6732 EDUCATIONAL, RELIGIOUS, AND CHARITABLE TRUSTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6733 TRUSTS, EXCEPT EDUCATIONAL, RELIGIOUS, AND CHARITABLE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 679 MISCELLANEOUS INVESTING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6792 OIL ROYALTY TRADERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6794 PATENT OWNERS AND LESSORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6798 REAL ESTATE INVESTMENT TRUSTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6799 INVESTORS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION I. SERVICES
+<br>
+<br>&nbsp; 70 HOTELS, ROOMING HOUSES, CAMPS, AND OTHER LODGING PLACES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 701 HOTELS AND MOTELS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7011 HOTELS AND MOTELS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 702 ROOMING AND BOARDING HOUSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7021 ROOMING AND BOARDING HOUSES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 703 CAMPS AND RECREATIONAL VEHICLE PARKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7032 SPORTING AND RECREATIONAL CAMPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7033 RECREATIONAL VEHICLE PARKS AND CAMPSITES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 704 ORGANIZATION HOTELS AND LODGING HOUSES, ON MEMBERSHIP BASIS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7041 ORGANIZATION HOTELS AND LODGING HOUSES, ON MEMBERSHIP BASIS
+<br>
+<br>&nbsp; 72 PERSONAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 721 LAUNDRY, CLEANING, AND GARMENT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7211 POWER LAUNDRIES, FAMILY AND COMMERCIAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7212 GARMENT PRESSING, AND AGENTS FOR LAUNDRIES AND DRYCLEANERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7213 LINEN SUPPLY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7215 COIN-OPERATED LAUNDRIES AND DRYCLEANING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7216 DRYCLEANING PLANTS, EXCEPT RUG CLEANING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7217 CARPET AND UPHOLSTERY CLEANING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7218 INDUSTRIAL LAUNDERERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7219 LAUNDRY AND GARMENT SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 722 PHOTOGRAPHIC STUDIOS, PORTRAIT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7221 PHOTOGRAPHIC STUDIOS, PORTRAIT
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 723 BEAUTY SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7231 BEAUTY SHOPS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 724 BARBER SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7241 BARBER SHOPS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 725 SHOE REPAIR SHOPS AND SHOESHINE PARLORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7251 SHOE REPAIR SHOPS AND SHOESHINE PARLORS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 726 FUNERAL SERVICE AND CREMATORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7261 FUNERAL SERVICE AND CREMATORIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 729 MISCELLANEOUS PERSONAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7291 TAX RETURN PREPARATION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7299 MISCELLANEOUS PERSONAL SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 73 BUSINESS SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 731 ADVERTISING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7311 ADVERTISING AGENCIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7312 OUTDOOR ADVERTISING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7313 RADIO, TELEVISION, AND PUBLISHERS' ADVERTISING REPRESENTATIVES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7319 ADVERTISING, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 732 CONSUMER CREDIT REPORTING AGENCIES, MERCANTILE REPORTING AGENCIES,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7322 ADJUSTMENT AND COLLECTION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7323 CREDIT REPORTING SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 733 MAILING, REPRODUCTION, COMMERCIAL ART AND PHOTOGRAPHY, AND STENOGR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7331 DIRECT MAIL ADVERTISING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7334 PHOTOCOPYING AND DUPLICATING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7335 COMMERCIAL PHOTOGRAPHY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7336 COMMERCIAL ART AND GRAPHIC DESIGN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7338 SECRETARIAL AND COURT REPORTING SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 734 SERVICES TO DWELLINGS AND OTHER BUILDINGS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7342 DISINFECTING AND PEST CONTROL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7349 BUILDING CLEANING AND MAINTENANCE SERVICES, NOT ELSEWHERE CLASSIF
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 735 MISCELLANEOUS EQUIPMENT RENTAL AND LEASING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7352 MEDICAL EQUIPMENT RENTAL AND LEASING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7353 HEAVY CONSTRUCTION EQUIPMENT RENTAL AND LEASING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7359 EQUIPMENT RENTAL AND LEASING, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 736 PERSONNEL SUPPLY SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7361 EMPLOYMENT AGENCIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7363 HELP SUPPLY SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 737 COMPUTER PROGRAMMING, DATA PROCESSING, AND OTHER COMPUTER RELATED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7371 COMPUTER PROGRAMMING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7372 PREPACKAGED SOFTWARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7373 COMPUTER INTEGRATED SYSTEMS DESIGN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7374 COMPUTER PROCESSING AND DATA PREPARATION AND PROCESSING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7375 INFORMATION RETRIEVAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7376 COMPUTER FACILITIES MANAGEMENT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7377 COMPUTER RENTAL AND LEASING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7378 COMPUTER MAINTENANCE AND REPAIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7379 COMPUTER RELATED SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 738 MISCELLANEOUS BUSINESS SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7381 DETECTIVE, GUARD, AND ARMORED CAR SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7382 SECURITY SYSTEMS SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7383 NEWS SYNDICATES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7384 PHOTOFINISHING LABORATORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7389 BUSINESS SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 75 AUTOMOTIVE REPAIR, SERVICES, AND PARKING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 751 AUTOMOTIVE RENTAL AND LEASING, WITHOUT DRIVERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7513 TRUCK RENTAL AND LEASING, WITHOUT DRIVERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7514 PASSENGER CAR RENTAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7515 PASSENGER CAR LEASING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7519 UTILITY TRAILER AND RECREATIONAL VEHICLE RENTAL
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 752 AUTOMOBILE PARKING
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7521 AUTOMOBILE PARKING
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 753 AUTOMOTIVE REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7532 TOP, BODY, AND UPHOLSTERY REPAIR SHOPS AND PAINT SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7533 AUTOMOTIVE EXHAUST SYSTEM REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7534 TIRE RETREADING AND REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7536 AUTOMOTIVE GLASS REPLACEMENT SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7537 AUTOMOTIVE TRANSMISSION REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7538 GENERAL AUTOMOTIVE REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7539 AUTOMOTIVE REPAIR SHOPS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 754 AUTOMOTIVE SERVICES, EXCEPT REPAIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7542 CARWASHES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7549 AUTOMOTIVE SERVICES, EXCEPT REPAIR AND CARWASHES
+<br>
+<br>&nbsp; 76 MISCELLANEOUS REPAIR SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 762 ELECTRICAL REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7622 RADIO AND TELEVISION REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7623 REFRIGERATION AND AIR-CONDITIONING SERVICE AND REPAIR SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7629 ELECTRICAL AND ELECTRONIC REPAIR SHOPS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 763 WATCH, CLOCK, AND JEWELRY REPAIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7631 WATCH, CLOCK, AND JEWELRY REPAIR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 764 REUPHOLSTERY AND FURNITURE REPAIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7641 REUPHOLSTERY AND FURNITURE REPAIR
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 769 MISCELLANEOUS REPAIR SHOPS AND RELATED SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7692 WELDING REPAIR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7694 ARMATURE REWINDING SHOPS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7699 REPAIR SHOPS AND RELATED SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 78 MOTION PICTURES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 781 MOTION PICTURE PRODUCTION AND ALLIED SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7812 MOTION PICTURE AND VIDEO TAPE PRODUCTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7819 SERVICES ALLIED TO MOTION PICTURE PRODUCTION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 782 MOTION PICTURE DISTRIBUTION AND ALLIED SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7822 MOTION PICTURE AND VIDEO TAPE DISTRIBUTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7829 SERVICES ALLIED TO MOTION PICTURE DISTRIBUTION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 783 MOTION PICTURE THEATERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7832 MOTION PICTURE THEATERS, EXCEPT DRIVE-IN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7833 DRIVE-IN MOTION PICTURE THEATERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 784 VIDEO TAPE RENTAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7841 VIDEO TAPE RENTAL
+<br>
+<br>&nbsp; 79 AMUSEMENT AND RECREATION SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 791 DANCE STUDIOS, SCHOOLS, AND HALLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7911 DANCE STUDIOS, SCHOOLS, AND HALLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 792 THEATRICAL PRODUCERS (EXCEPT MOTION PICTURE), BANDS, ORCHESTRAS, A
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7922 THEATRICAL PRODUCERS (EXCEPT MOTION PICTURE) AND MISCELLANEOUS TH
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7929 BANDS, ORCHESTRAS, ACTORS, AND OTHER ENTERTAINERS AND ENTERTAINME
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 793 BOWLING CENTERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7933 BOWLING CENTERS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 794 COMMERCIAL SPORTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7941 PROFESSIONAL SPORTS CLUBS AND PROMOTERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7948 RACING, INCLUDING TRACK OPERATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 799 MISCELLANEOUS AMUSEMENT AND RECREATION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7991 PHYSICAL FITNESS FACILITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7992 PUBLIC GOLF COURSES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7993 COIN-OPERATED AMUSEMENT DEVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7996 AMUSEMENT PARKS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7997 MEMBERSHIP SPORTS AND RECREATION CLUBS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7999 AMUSEMENT AND RECREATION SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 80 HEALTH SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 801 OFFICES AND CLINICS OF DOCTORS OF MEDICINE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8011 OFFICES AND CLINICS OF DOCTORS OF MEDICINE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 802 OFFICES AND CLINICS OF DENTISTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8021 OFFICES AND CLINICS OF DENTISTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 803 OFFICES AND CLINICS OF DOCTORS OF OSTEOPATHY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8031 OFFICES AND CLINICS OF DOCTORS OF OSTEOPATHY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 804 OFFICES AND CLINICS OF OTHER HEALTH PRACTITIONERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8041 OFFICES AND CLINICS OF CHIROPRACTORS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8042 OFFICES AND CLINICS OF OPTOMETRISTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8043 OFFICES AND CLINICS OF PODIATRISTS
+<br>&nbsp;&nbnbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8049 OFFICES AND CLINICS OF HEALTH PRACTITIONERS, NOT ELSEWHERE CLASSI
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 805 NURSING AND PERSONAL CARE FACILITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8051 SKILLED NURSING CARE FACILITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8052 INTERMEDIATE CARE FACILITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8059 NURSING AND PERSONAL CARE FACILITIES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 806 HOSPITALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8062 GENERAL MEDICAL AND SURGICAL HOSPITALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8063 PSYCHIATRIC HOSPITALS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8069 SPECIALTY HOSPITALS, EXCEPT PSYCHIATRIC
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 807 MEDICAL AND DENTAL LABORATORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8071 MEDICAL LABORATORIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8072 DENTAL LABORATORIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 808 HOME HEALTH CARE SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8082 HOME HEALTH CARE SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 809 MISCELLANEOUS HEALTH AND ALLIED SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8092 KIDNEY DIALYSIS CENTERS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8093 SPECIALTY OUTPATIENT FACILITIES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8099 HEALTH AND ALLIED SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 81 LEGAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 811 LEGAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8111 LEGAL SERVICES
+<br>
+<br>&nbsp; 82 EDUCATIONAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 821 ELEMENTARY AND SECONDARY SCHOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8211 ELEMENTARY AND SECONDARY SCHOOLS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 822 COLLEGES, UNIVERSITIES, PROFESSIONAL SCHOOLS, AND JUNIOR COLLEGES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8221 COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8222 JUNIOR COLLEGES AND TECHNICAL INSTITUTES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 823 LIBRARIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8231 LIBRARIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 824 VOCATIONAL SCHOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8243 DATA PROCESSING SCHOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8244 BUSINESS AND SECRETARIAL SCHOOLS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8249 VOCATIONAL SCHOOLS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 829 SCHOOLS AND EDUCATIONAL SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8299 SCHOOLS AND EDUCATIONAL SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 83 SOCIAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 832 INDIVIDUAL AND FAMILY SOCIAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8322 INDIVIDUAL AND FAMILY SOCIAL SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 833 JOB TRAINING AND VOCATIONAL REHABILITATION SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8331 JOB TRAINING AND VOCATIONAL REHABILITATION SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 835 CHILD DAY CARE SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8351 CHILD DAY CARE SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 836 RESIDENTIAL CARE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8361 RESIDENTIAL CARE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 839 SOCIAL SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8399 SOCIAL SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 84 MUSEUMS, ART GALLERIES, AND BOTANICAL AND ZOOLOGICAL GARDENS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 841 MUSEUMS AND ART GALLERIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8412 MUSEUMS AND ART GALLERIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 842 ARBORETA AND BOTANICAL OR ZOOLOGICAL GARDENS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8422 ARBORETA AND BOTANICAL OR ZOOLOGICAL GARDENS
+<br>
+<br>&nbsp; 86 MEMBERSHIP ORGANIZATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 861 BUSINESS ASSOCIATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8611 BUSINESS ASSOCIATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 862 PROFESSIONAL MEMBERSHIP ORGANIZATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8621 PROFESSIONAL MEMBERSHIP ORGANIZATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 863 LABOR UNIONS AND SIMILAR LABOR ORGANIZATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8631 LABOR UNIONS AND SIMILAR LABOR ORGANIZATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 864 CIVIC, SOCIAL, AND FRATERNAL ASSOCIATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8641 CIVIC, SOCIAL, AND FRATERNAL ASSOCIATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 865 POLITICAL ORGANIZATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8651 POLITICAL ORGANIZATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 866 RELIGIOUS ORGANIZATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8661 RELIGIOUS ORGANIZATIONS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 869 MEMBERSHIP ORGANIZATIONS, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8699 MEMBERSHIP ORGANIZATIONS, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 87 ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT, AND RELATED SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 871 ENGINEERING, ARCHITECTURAL, AND SURVEYING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8711 ENGINEERING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8712 ARCHITECTURAL SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8713 SURVEYING SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 872 ACCOUNTING, AUDITING, AND BOOKKEEPING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8721 ACCOUNTING, AUDITING, AND BOOKKEEPING SERVICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 873 RESEARCH, DEVELOPMENT, AND TESTING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8731 COMMERCIAL PHYSICAL AND BIOLOGICAL RESEARCH
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8732 COMMERCIAL ECONOMIC, SOCIOLOGICAL, AND EDUCATIONAL RESEARCH
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8733 NONCOMMERCIAL RESEARCH ORGANIZATIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8734 TESTING LABORATORIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 874 MANAGEMENT AND PUBLIC RELATIONS SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8741 MANAGEMENT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8742 MANAGEMENT CONSULTING SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8743 PUBLIC RELATIONS SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8744 FACILITIES SUPPORT MANAGEMENT SERVICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8748 BUSINESS CONSULTING SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 88 PRIVATE HOUSEHOLDS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 881 PRIVATE HOUSEHOLDS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8811 PRIVATE HOUSEHOLDS
+<br>
+<br>&nbsp; 89 SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 899 SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8999 SERVICES, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>DIVISION J. PUBLIC ADMINISTRATION
+<br>
+<br>&nbsp; 91 EXECUTIVE, LEGISLATIVE, AND GENERAL GOVERNMENT, EXCEPT FINANCE
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 911 EXECUTIVE OFFICES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9111 EXECUTIVE OFFICES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 912 LEGISLATIVE BODIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9121 LEGISLATIVE BODIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 913 EXECUTIVE AND LEGISLATIVE OFFICES COMBINED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9131 EXECUTIVE AND LEGISLATIVE OFFICES COMBINED
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 919 GENERAL GOVERNMENT, NOT ELSEWHERE CLASSIFIED
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9199 GENERAL GOVERNMENT, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 92 JUSTICE, PUBLIC ORDER, AND SAFETY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 921 COURTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9211 COURTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 922 PUBLIC ORDER AND SAFETY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9221 POLICE PROTECTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9222 LEGAL COUNSEL AND PROSECUTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9223 CORRECTIONAL INSTITUTIONS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9224 FIRE PROTECTION
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9229 PUBLIC ORDER AND SAFETY, NOT ELSEWHERE CLASSIFIED
+<br>
+<br>&nbsp; 93 PUBLIC FINANCE, TAXATION, AND MONETARY POLICY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 931 PUBLIC FINANCE, TAXATION, AND MONETARY POLICY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9311 PUBLIC FINANCE, TAXATION, AND MONETARY POLICY
+<br>
+<br>&nbsp; 94 ADMINISTRATION OF HUMAN RESOURCE PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 941 ADMINISTRATION OF EDUCATIONAL PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9411 ADMINISTRATION OF EDUCATIONAL PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 943 ADMINISTRATION OF PUBLIC HEALTH PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9431 ADMINISTRATION OF PUBLIC HEALTH PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 944 ADMINISTRATION OF SOCIAL, HUMAN RESOURCE AND INCOME MAINTENANCE PR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9441 ADMINISTRATION OF SOCIAL, HUMAN RESOURCE AND INCOME MAINTENANCE P
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 945 ADMINISTRATION OF VETERANS' AFFAIRS, EXCEPT HEALTH AND INSURANCE
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9451 ADMINISTRATION OF VETERANS' AFFAIRS, EXCEPT HEALTH AND INSURANCE
+<br>
+<br>&nbsp; 95 ADMINISTRATION OF ENVIRONMENTAL QUALITY AND HOUSING PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 951 ADMINISTRATION OF ENVIRONMENTAL QUALITY PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9511 AIR AND WATER RESOURCE AND SOLID WASTE MANAGEMENT
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9512 LAND, MINERAL, WILDLIFE, AND FOREST CONSERVATION
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 953 ADMINISTRATION OF HOUSING AND URBAN DEVELOPMENT PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9531 ADMINISTRATION OF HOUSING PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9532 ADMINISTRATION OF URBAN PLANNING AND COMMUNITY AND RURAL DEVELOPM
+<br>
+<br>&nbsp; 96 ADMINISTRATION OF ECONOMIC PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 961 ADMINISTRATION OF GENERAL ECONOMIC PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9611 ADMINISTRATION OF GENERAL ECONOMIC PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 962 REGULATION AND ADMINISTRATION OF TRANSPORTATION PROGRAMS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9621 REGULATION AND ADMINISTRATION OF TRANSPORTATION PROGRAMS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 963 REGULATION AND ADMINISTRATION OF COMMUNICATIONS, ELECTRIC, GAS, AN
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9631 REGULATION AND ADMINISTRATION OF COMMUNICATIONS, ELECTRIC, GAS, A
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 964 REGULATION OF AGRICULTURAL MARKETING AND COMMODITIES
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9641 REGULATION OF AGRICULTURAL MARKETING AND COMMODITIES
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 965 REGULATION, LICENSING, AND INSPECTION OF MISCELLANEOUS COMMERCIAL
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9651 REGULATION, LICENSING, AND INSPECTION OF MISCELLANEOUS COMMERCIAL
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 966 SPACE RESEARCH AND TECHNOLOGY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9661 SPACE RESEARCH AND TECHNOLOGY
+<br>
+<br>&nbsp; 97 NATIONAL SECURITY AND INTERNATIONAL AFFAIRS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 971 NATIONAL SECURITY
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9711 NATIONAL SECURITY
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 972 INTERNATIONAL AFFAIRS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9721 INTERNATIONAL AFFAIRS
+<br>
+<br>DIVISION K. NONCLASSIFIABLE ESTABLISHMENTS
+<br>
+<br>&nbsp; 99 NONCLASSIFIABLE ESTABLISHMENTS
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 999 NONCLASSIFIABLE ESTABLISHMENTS
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9999 NONCLASSIFIABLE ESTABLISHMENTS
+<br>
