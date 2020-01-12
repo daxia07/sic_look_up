@@ -66,8 +66,6 @@ def format_table(raw_input):
             new_row['name'] = val
             res = res.append(new_row, ignore_index=True)
             new_row['SIK'] = None
-
-    res = res.append(new_row, ignore_index=True)
     return res
 
 
