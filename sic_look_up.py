@@ -54,12 +54,25 @@ def format_table(raw_input):
         if not indicator.isdigit():
             raise ValueError('indicator not DIV or digit!', entry)
         if len(indicator) == 3:
-            new_row['3'] = val
+            # add new entry
+            new_row['SIK'] = indicator.ljust(4, '0')
+            new_row['name'] = val
+            new_row['3'] = None
+            res = res.append(new_row, ignore_index=True)
             new_row['SIK'] = None
+            new_row['name'] = None
+            new_row['3'] = val
+
         elif len(indicator) == 2:
-            new_row['2'] = val
+            new_row['SIK'] = indicator.ljust(4, '0')
+            new_row['name'] = val
+            new_row['2'] = None
+            res = res.append(new_row, ignore_index=True)
             new_row['3'] = None
             new_row['SIK'] = None
+            new_row['name'] = None
+            new_row['2'] = val
+
         elif len(indicator) == 4:
             # to append
             new_row['SIK'] = indicator

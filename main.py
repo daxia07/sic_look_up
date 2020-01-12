@@ -8,7 +8,7 @@ def get_query_data():
 
 
 def get_result(query, data):
-    data.SIK = data.SIK.astype(int)
+    query.SIK = query.SIK.astype(str)
     res = query.merge(data, on='SIK', how='left')
     return res
 
